@@ -1,3 +1,11 @@
+# Netflix clone 
+
+![image](https://user-images.githubusercontent.com/5720208/183350947-69bc9768-28a6-4aea-923e-805ec93ae280.png)
+
+Website is hosted at - https://netflix-clone-samir.web.app/
+
+This is a netflix react clone with smooth transition effects. Individuals thumbnails are clickable and one can watch the corresponding youtube trailer as well.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
